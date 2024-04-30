@@ -2,5 +2,5 @@
 
 | Destination | Why visit  | Things to do  |
 | --- |---| ---|
-| Berlin |  | Link |
+| [Germany]([https://www.example.com](https://github.com/vidyutrautela/travel/blob/main/europe/germany.md)) |  | Link |
 | Munich |  |   Link |
